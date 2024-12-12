@@ -19,6 +19,7 @@
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/qr-code": "file:./modules/qr-code/",
     "@modules/side-drawer": "file:./modules/side-drawer/",
+    "@modules/social-feed": "file:./modules/social-feed",
     "@modules/social-login": "file:./modules/social-login/",
     "@modules/typeform-webhook": "file:./modules/typeform-webhook/",
     "@modules/user-profile": "file:./modules/user-profile/",
